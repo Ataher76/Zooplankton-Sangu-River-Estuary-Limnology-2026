@@ -24,7 +24,7 @@ This repository hosts the research data and analytical framework for the first c
 ## **How to Cite**
 Once the manuscript is officially published, please cite it as follows:
 
-> Monwar, M. M., Islam, M. R., Das, P., Ali, A., & Bhuiyan, M. K. A. (2026). **Baseline Study of Seasonal Zooplankton Dynamics and Their Environmental Drivers in the Sangu River Estuary, Bangladesh.** *Limnology*.
+> Monwar, M. M., Islam, M. R., Das, P., Ali, A., & Bhuiyan, M. K. A. (2026). **Monsoon-driven zooplankton dynamics in the mid-estuary of the Sangu River, Bangladesh: A multivariate approach.** *Limnology*. https://doi.org/10.1007/s10201-026-00848-6
 
 ---
 
